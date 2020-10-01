@@ -14,8 +14,8 @@ public class FollowPlayer : MonoBehaviour
 
 	// Below line makes the following code smoother since it runs after the car is moved with physics
 	// void LateUpdate()
-	// void OnPreRender()
-	void Update()
+	void OnPreRender()
+	// void Update()
 	{
 		transform.position = player.transform.position + offset;
 

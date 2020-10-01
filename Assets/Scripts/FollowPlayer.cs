@@ -11,9 +11,11 @@ public class FollowPlayer : MonoBehaviour
 
 	}
 
+	// Below line makes the following code smoother since it runs after the car is moved with physics
+	// void LateUpdate()
 	void Update()
 	{
-		transform.position = player.transform.position;
+		transform.position = player.transform.position + new Vector3(0, 5, -7);
 
 	}
 

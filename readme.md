@@ -14,3 +14,4 @@ This is my project for the CWC Unity tutorial. Unity will generate many importan
 * ~~Plane that moves extremely dast~~ Plane that moves at a *nice* speed
 * ~~Plane tilts by itself using an *advanced* AI~~ Plane is tilted by W/S keys.
 * ~~Camera in front of the plane so you can see yourself ;)~~ Camera beside the plane so you don't crash and die a fiery death.
+* ~~Sad Lame Stationary nose stick~~ Cool wacky fun awesome moving spinny propeller (with dynamic script).

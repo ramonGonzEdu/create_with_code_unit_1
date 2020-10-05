@@ -11,3 +11,4 @@ This is my project for the CWC Unity tutorial. Unity will generate many importan
 
 ## Features (Challenge):
 * ~~Plane that moves backwards~~ Plane that moves *forwards*
+* ~~Plane that moves extremely dast~~ Plane that moves at a *nice* speed

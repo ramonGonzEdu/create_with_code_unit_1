@@ -10,4 +10,4 @@ This is my project for the CWC Unity tutorial. Unity will generate many importan
 * Car that moves forward and back and turns left or right based on input.
 
 ## Features (Challenge):
-* TODO
+* ~~Plane that moves backwards~~ Plane that moves *forwards*
